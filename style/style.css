@@ -15,4 +15,6 @@ body{
     border-bottom: 2px dotted rgba(19, 19, 24, 0.20);
 }.program-section{
     background: linear-gradient(to right, rgba(19 , 19, 24, 0.50), rgba(19, 19, 24, 0.8));
+}.border{
+    border: 1px solid rgba(19, 19, 24, 0.10);
 }
