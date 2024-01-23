@@ -8,7 +8,11 @@ body{
     max-width: 1170px;
     margin: 100px auto;
     
-}.Professional-section-content{
-    border-top: 1px dotted rgba(19, 19, 24, 0.20);
-    border-bottom: 1px dotted rgba(19, 19, 24, 0.20);
+
+}
+.Professional-section-content{
+    border-top: 2px dotted rgba(19, 19, 24, 0.20);
+    border-bottom: 2px dotted rgba(19, 19, 24, 0.20);
+}.program-section{
+    background: linear-gradient(to right, rgba(19 , 19, 24, 0.50), rgba(19, 19, 24, 0.8));
 }
