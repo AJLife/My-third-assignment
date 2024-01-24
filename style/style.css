@@ -3,12 +3,9 @@
 body{
     font-family: 'Manrope', sans-serif;
 }
-
 .main-section{
     max-width: 1170px;
     margin: 100px auto;
-    
-
 }
 .Professional-section-content{
     border-top: 2px dotted rgba(19, 19, 24, 0.20);
